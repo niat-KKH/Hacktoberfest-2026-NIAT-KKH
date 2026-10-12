@@ -3,7 +3,7 @@
 ## Team / attendee
 
 - Team name: Team Blueprint
-- Members and GitHub usernames: @satvik310706 and team
+- Members and GitHub usernames: @satvik310706 , @NIKHIL2K5 and team
 - Hackathon: Hacktoberfest Hack Day 2026 · Hyderabad (NIAT-KKH × MLH)
 
 ## Challenge
