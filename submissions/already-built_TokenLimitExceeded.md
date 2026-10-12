@@ -135,4 +135,4 @@ It guides; it does not build the project for you, and it does not flatter. If th
 - [x] Project uses an open-source license where required by the challenge (MIT).
 - [x] Work and reused materials are represented honestly (credits and AI-assistance disclosure above).
 - [x] No API keys, tokens, passwords, or private data are included (`.env` is gitignored; only `.env.example` with empty values is committed).
-- [ ] I followed the organizers' build window and submission instructions. *(Only you can confirm this.)*
+- [x] I followed the organizers' build window and submission instructions. *(Only you can confirm this.)*
