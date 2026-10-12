@@ -3,8 +3,12 @@
 ## Team / attendee
 
 - Team name (if applicable): HackersofHactober
-- Members and GitHub usernames: Nonitha Ganta (@nonithaganta)
-- Profile links (optional): https://github.com/nonithaganta
+- Members and GitHub usernames:
+  - Nonitha Ganta (@nonithaganta)
+  - Sathwick Kandimalla (@SathwickKandimalla)
+- Profile links (optional):
+  - https://github.com/nonithaganta
+  - https://github.com/SathwickKandimalla
 
 ## Challenge
 
