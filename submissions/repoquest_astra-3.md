@@ -31,7 +31,7 @@ Select the challenge you are entering:
 ### Who is this for?
 First-time open-source contributors, student developers, and engineers who want to explore and understand unfamiliar codebases without feeling intimidated or lost in massive repositories.
 
-### What problem does it solve?
+### What problem dogit commit -m "Add project submission"es it solve?
 Diving into open-source projects is daunting for newcomers:
 1. **Intimidating Codebases**: Beginners struggle to know where execution starts, how modules communicate, or how configurations and test suites connect.
 2. **Cloning & Setup Overhead**: Cloning gigabytes of code, configuring local toolchains, and pulling dependencies just to understand a repository is wasteful and high-friction.
