@@ -6,9 +6,9 @@
 
 ## Team / attendee
 
-- Team name (if applicable): Already Built? *(solo entry; edit if you have teammates)*
-- Members and GitHub usernames: [@ronaksarda](https://github.com/ronaksarda)
-- Profile links (optional): https://github.com/ronaksarda
+- Team name (if applicable): TokenLimitExceeded
+- Members and GitHub usernames: Ronak ([@ronaksarda](https://github.com/ronaksarda)), Pranav ([@PranavRaj-K](https://github.com/PranavRaj-K)), Bhardwaj ([@saivvyy](https://github.com/saivvyy))
+- Profile links (optional): https://github.com/ronaksarda, https://github.com/PranavRaj-K, https://github.com/saivvyy
 
 ## Challenge
 
